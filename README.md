@@ -1,4 +1,4 @@
-# Focus_Detection_System
+# Focus Detection System
 
 This is the library for Real-Time Mood Detector with Eye Tracking for Focus Monitoring.
 ![Demo](assets/demo.gif)]
