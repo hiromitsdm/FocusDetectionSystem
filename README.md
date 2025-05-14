@@ -2,7 +2,7 @@
 
 This is the library for Real-Time Mood Detector with Eye Tracking for Focus Monitoring.
 
-[![Watch the demo](assets/vimeo-thumb.png)](https://vimeo.com/1084127194)
+<video src="https://user-images.githubusercontent.com/.../yourvideo.mp4" controls autoplay muted loop width="600"></video>
 
 
 ## Description
